@@ -1,3 +1,3 @@
 Hello!
 
-Herer is more text
+Here is more text
